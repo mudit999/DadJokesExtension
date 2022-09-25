@@ -1,0 +1,10 @@
+body{
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    border: 1px dotted blue;
+}
